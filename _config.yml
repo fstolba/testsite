@@ -14,10 +14,10 @@ new_post_name: :year-:month-:day-:title.md # File name of new posts
 post_asset_folder: true
 per_page: 0
 
-theme: navy
+theme: hiker
 deploy:
   type: git
-  repo: git@github.com:hexojs/hexojs.github.io.git
+  repo: git@github.com:iTimeTraveler/hexo-theme-hiker.git
 
 highlight:
   enable: true
